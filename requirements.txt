@@ -2,7 +2,7 @@ Django==2.1
 djangorestframework==3.10.3
 djangorestframework-simplejwt==4.3.0
 django-cors-headers==3.1.0
-ecdsa==0.13.2
+ecdsa==0.13.3
 future==0.17.1
 pyasn1==0.4.7
 PyJWT==1.7.1
